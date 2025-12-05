@@ -17,7 +17,7 @@ This repository consists of the following files:
 The dataset used for this work is **AGIQA-3k**, which can be downloaded from the following link:
 
 🔗 **AGIQA-3k Dataset Download:**  
-https://huggingface.co/datasets/IIGroups/AGIQA-3k
+https://github.com/lcysyzxdxc/AGIQA-3k-Database.git
 
 ---
 
